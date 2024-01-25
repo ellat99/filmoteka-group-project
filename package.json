@@ -2,7 +2,7 @@
   "name": "filmoteka-testing-firestore",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://urraccon.github.io/filmoteka-testing-firestore",
+  "homepage": "https://ellat99/.github.io/filmoteka-group-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka-testing-firestore/"
